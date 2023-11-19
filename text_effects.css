@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+/*Text Overflow*/
+/*
+p.text{
+    white-space: nowrap;
+    margin: auto;
+    border: 1px solid #000;
+    margin-top: 2em;
+    text-align: center;
+    padding: 10px 5px;
+    width: 280px;
+    overflow: hidden;
+    text-overflow: clip; 
+    text-overflow: ellipsis;
+    transition: all ease 1s;
+}
+
+p.text:hover{
+    display: inline-block;
+ overflow: visible;
+ width: auto;
+} 
+*/
+
+/*
+.word_wrap{
+    border: 1px solid #000;
+    width: 200px;
+    margin: auto;
+    padding: 10px;
+    margin-top: 1em ;
+    word-wrap: break-word ;
+}
+*/
+
+/*
+.word_break{
+    border: 1px solid #000;
+    width: 200px;
+    margin: auto;
+    margin-top: 1em ;
+    word-break: keep-all;
+     word-break: break-all;
+}
+*/
+/*writing-mode*/
+
+/* .writing_mode{
+    text-align: center;
+    margin: 2em;
+}
+
+.writing_mode > span{
+    color: #18a33a;
+    writing-mode: horizontal-tb;
+    transition: all ease 1s;
+}
+
+.writing_mode > span:hover{
+    writing-mode: vertical-rl;
+} */
+
+
+
+
+
+
